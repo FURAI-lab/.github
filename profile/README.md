@@ -4,107 +4,69 @@
 
 ### Architecting calm, persistent and autonomous AI systems
 
-<br>
-
 [furai.space](https://furai.space)
 
 </div>
 
-<p align="center">
-──────────────
-</p>
+---
 
 ## About
 
-FURAI LAB is an independent AI research and engineering studio focused on long-term memory, digital identity and edge-native intelligence systems.
+FURAI LAB is an independent AI research and engineering studio focused on long-term memory, digital identity, and edge-native intelligence.
 
-We explore persistent AI architectures, vector-based memory systems and emerging Web3 technologies to build AI experiences designed for continuity instead of noise.
+We build AI systems designed for continuity — not sessions. Our work explores what happens when AI remembers, evolves, and exists quietly alongside the people who use it.
 
-<p align="center">
-──────────────
-</p>
+---
 
 ## Core Directions
 
-- Persistent AI Memory
-- Vector-based Memory Systems
-- Identity-aware AI
-- Autonomous AI Systems
-- Edge-native Intelligence
-- Persistent Context Systems
-- Memory Interfaces
-- Web3-native Infrastructure
+**Persistent Memory** — AI that retains context across time, not just within a conversation.
 
-<p align="center">
-──────────────
-</p>
+**Identity-aware Systems** — models that understand who they're speaking with and adapt accordingly.
 
-## Architecture Principles
+**Edge-native Intelligence** — distributed AI infrastructure with no cold starts, no central servers.
 
-- Long-term memory over temporary sessions
-- Identity-aware AI systems
-- Edge-native infrastructure
-- Calm and minimal interfaces
-- Durable context persistence
-- Human-centered cognitive design
+**Calm Interfaces** — interaction design that reduces cognitive load instead of adding to it.
 
-<p align="center">
-──────────────
-</p>
+---
 
-## Technology
+## Stack
 
 ```txt
-TypeScript
-Hono
-Cloudflare Workers
-Durable Objects
-Vector Databases
-Memory Architectures
-LLM Infrastructure
-Web3 Technologies
+TypeScript · Hono
+Cloudflare Workers · Durable Objects · Workers AI
+Vectorize · KV
+LLM Infrastructure · Web3-native Primitives
 ```
 
-<p align="center">
-──────────────
-</p>
+---
 
 ## Projects
 
 | Project | Description |
 |---|---|
-| FURAI AI | Long-term AI identity and memory system |
-| Velorum | Minimal cognitive AI interface |
-| Memory Core | Persistent context architecture |
+| **FURAI AI** | Cinematic AI terminal powered by Velorum — an ancient archive vessel with long-term memory, lore, and visitor continuity. Live at [furai.space](https://furai.space) |
+| **Memory Core** | Persistent context architecture powering Velorum's semantic retrieval and identity tracking |
 
-<p align="center">
-──────────────
-</p>
-
-## Research Status
-
-FURAI LAB is currently focused on experimental infrastructure, memory architectures and next-generation AI interaction models.
-
-Early-stage systems are actively being designed and tested.
-
-<p align="center">
-──────────────
-</p>
+---
 
 ## Philosophy
 
 Technology should feel calm.
 
 We believe future AI systems should:
-
 - remember with continuity
 - evolve with identity
 - assist without overload
 - exist quietly in everyday life
 
-<p align="center">
-──────────────
-</p>
+---
+
+## Status
+
+FURAI LAB is an early-stage studio. Core systems are live and actively evolving.
+
+---
 
 <div align="center">
 
