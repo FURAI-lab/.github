@@ -10,7 +10,9 @@
 
 </div>
 
----
+<p align="center">
+──────────────
+</p>
 
 ## About
 
@@ -18,23 +20,37 @@ FURAI LAB is an independent AI research and engineering studio focused on long-t
 
 We explore persistent AI architectures, vector-based memory systems and emerging Web3 technologies to build AI experiences designed for continuity instead of noise.
 
-We design AI experiences built for continuity instead of noise.
-
----
+<p align="center">
+──────────────
+</p>
 
 ## Core Directions
 
 - Persistent AI Memory
 - Vector-based Memory Systems
+- Identity-aware AI
 - Autonomous AI Systems
-- Digital Identity Architecture
 - Edge-native Intelligence
-- Human-AI Interaction
-- Cognitive Interfaces
+- Persistent Context Systems
+- Memory Interfaces
 - Web3-native Infrastructure
-- Long-term Context Systems
 
----
+<p align="center">
+──────────────
+</p>
+
+## Architecture Principles
+
+- Long-term memory over temporary sessions
+- Identity-aware AI systems
+- Edge-native infrastructure
+- Calm and minimal interfaces
+- Durable context persistence
+- Human-centered cognitive design
+
+<p align="center">
+──────────────
+</p>
 
 ## Technology
 
@@ -49,7 +65,31 @@ LLM Infrastructure
 Web3 Technologies
 ```
 
----
+<p align="center">
+──────────────
+</p>
+
+## Projects
+
+| Project | Description |
+|---|---|
+| FURAI AI | Long-term AI identity and memory system |
+| Velorum | Minimal cognitive AI interface |
+| Memory Core | Persistent context architecture |
+
+<p align="center">
+──────────────
+</p>
+
+## Research Status
+
+FURAI LAB is currently focused on experimental infrastructure, memory architectures and next-generation AI interaction models.
+
+Early-stage systems are actively being designed and tested.
+
+<p align="center">
+──────────────
+</p>
 
 ## Philosophy
 
@@ -62,23 +102,9 @@ We believe future AI systems should:
 - assist without overload
 - exist quietly in everyday life
 
----
-
-## Projects
-
-| Project | Description |
-|---|---|
-| FURAI AI | Long-term AI identity and memory system |
-| Velorum | Minimal cognitive AI interface |
-| Memory Core | Persistent context architecture |
-
----
-
-## Current State
-
-Active research and development.
-
----
+<p align="center">
+──────────────
+</p>
 
 <div align="center">
 
